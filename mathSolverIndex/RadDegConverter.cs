@@ -30,7 +30,7 @@ namespace mathSolverIndex
 
             if (radOrDeg == 0)
             {
-                ResultTextbox.Text = Convert.ToString(Math.Round(input / halfC));
+                ResultTextbox.Text = Convert.ToString(Math.Round(input / halfC, 2));
                 resultType.Text = "degrees";
             }
         }

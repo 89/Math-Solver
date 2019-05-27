@@ -74,6 +74,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CompoundInterest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompoundInterest.Designer.cs">
+      <DependentUpon>CompoundInterest.cs</DependentUpon>
+    </Compile>
     <Compile Include="index.cs">
       <SubType>Form</SubType>
     </Compile>

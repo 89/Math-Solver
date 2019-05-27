@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mathSolverIndex.exe" size="113616">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="mathSolverIndex.exe" size="114128">
       <assemblyIdentity name="mathSolverIndex" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/mk119X8O/3W3Uuz0gO2oX6DyZQQOWu+Oa9b7IgAWi4=</dsig:DigestValue>
+        <dsig:DigestValue>YDu6FnAi0uv101vlyWv3ZchDF4lbybQ6qWp0o7uA+kc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
